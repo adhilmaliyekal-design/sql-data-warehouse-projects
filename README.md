@@ -1,3 +1,5 @@
+📊 End-to-End Data Warehouse Project
+
 This project is an end-to-end Data Warehouse solution built using Microsoft SQL Server. The project focuses on transforming raw business data from different source systems into clean, structured, and analytics-ready information.
 
 The project follows a Medallion Architecture, consisting of Bronze, Silver, and Gold layers, to organize the data processing workflow.
